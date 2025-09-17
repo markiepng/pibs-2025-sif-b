@@ -3,5 +3,6 @@ Kegiatan:
 2. edit file README.md
 3. edit file README.md
 4. menambah file latihan.txt
-5. membuat branch langsung pada repository
-6. melakukan pull request sesi-2 ke main branch
+5. membuat branch langsung saat commit
+6. membuat branch langsung pada repository
+7. melakukan pull request sesi-2 ke main branch
